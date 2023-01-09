@@ -1,13 +1,13 @@
 import React from "react";
 import Navbar from "./Navbar";
 import { NavLink, useNavigate } from "react-router-dom";
-import food from "../components/img/foof.jpg";
-import rice from "../components/img/Beef-fries.jpg";
-import beef from "../components/img/rice.jpg";
-import person1 from "../components/img/person1.jpeg";
+import Spices from "../components/img/Spices.jpg"
+import rice from "../components/img/rice.jpeg"
+import Befries from "../components/img/Befries.jpeg"
+import person1 from "../components/img/person1.png";
 import person2 from "../components/img/person2.jpeg";
-import chips from "../components/img/chips.jpeg";
-import eggs from "../components/img/eggs.jpeg";
+import chips from "../components/img/chips.jpg";
+import eggs from "../components/img/eggs.jpg";
 import meat from "../components/img/meat.jpg";
 
 

@@ -1,7 +1,7 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
-import food from "../components/img/foof.jpg";
-import rice from "../components/img/Beef-fries.jpg";
+import Spices from "../components/img/spices.jpg";
+import fries from "../components/img/BeFries.jpeg";
 import beef from "../components/img/rice.jpg";
 import person1 from "../components/img/person1.jpeg";
 import person2 from "../components/img/person2.jpeg";
